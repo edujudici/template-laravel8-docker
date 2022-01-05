@@ -16,3 +16,5 @@ docker run -d -p 80:80 app:latest
 ```
 
 ## once you run above command go to http://localhost
+
+## complete tutorial: https://learn2torials.com/a/laravel8-production-docker-image
